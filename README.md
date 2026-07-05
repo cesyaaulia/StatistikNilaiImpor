@@ -25,6 +25,16 @@ Proyek ini mengekstraksi data secara terstruktur, menghitung parameter statistik
 
 ---
 
+## 📋 Project Documentation
+<div align="center">
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/bfed29f4-8183-4eeb-b2b1-6a33433a12c7" />
+<img width="32%" alt="image" src="https://github.com/user-attachments/assets/4df225ee-3f1b-4fc9-a5c4-4ec0ce3ac96d" />
+
+
+</div>
+
+---
+
 ## 🎯 Tujuan Analisis
 
 Sistem *pipeline* analisis ini dirancang untuk mencapai sasaran berikut:
